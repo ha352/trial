@@ -1,0 +1,64 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="BANGLADESH", BTV WORLD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" group-title="BANGLADESH", ATN BANGLA
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF: -1 group-title="BANGLADESH", SANGSAD BANGLADESH
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sangsad_tv
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="BANGLADESH", BANGLA VISON
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_vision
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" group-title="BANGLADESH", CHENNEL I
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_i
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BANGLADESH", CHENNEL 24 HD
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=d2Vj4Ig8P0fndGeanYVrVg&expires=1719509268&user=ff39d05fef0749028389f28943b73363
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="BANGLADESH", somoy tv
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESH", EKATTOR TV HD
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=zIpkbXl9f1Xqml6sxGbQhg&expires=1719508622&user=ff39d05fef0749028389f28943b73363
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="BANGLADESH", DBC NEWS
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="BANGLADESH", NEWS 24 HD
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16508.ts
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" group-title="BANGLADESH", R TV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="BANGLADESH", INDEPENDENT TV
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" group-title="BANGLADESH", N TV
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/b2SgvVr/20240610-110153.png" group-title="BANGLADESH", MY TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=my_tv
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="BANGLADESH", ATN NEWS
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=iLiDt0pOGC0xvxOvQA9xVg&expires=1719511174&user=ff39d05fef0749028389f28943b73363
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="BANGLADESH", NAGORIK TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=0hP1-HWIzHr2NT1P3P5rqw&expires=1719511347&user=ff39d05fef0749028389f28943b73363
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" group-title="BANGLADESH", CHENNEL 9
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2316.ts
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" group-title="BANGLADESH", DEEPTO TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BANGLADESH", SA TV
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/93KYQcN/20240610-113616.png" group-title="BANGLADESH", EKHON TV
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/mono.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="BANGLADESH", BANGLA TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_tv
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="BANGLADESH", BIJOY TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="BANGLADESH", CHENNEL S
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/mono.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="BANGLADESH", EKUSHEY E TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="BANGLADESH", BOSAKHI TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=boishakhi_tv
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESH", ASIAN TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=asian_tv
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WzRvVwL/20240610-113124.png" group-title="BANGLADESH", MOVIES BANGLA
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/mono.m3u8
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" group-title="BANGLADESH", GAZI TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+#EXTINF: -1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESH", JAMUNA  TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/BVJ8Bw9/IMG-20240126-112953.jpg" group-title="BANGLADESH", RAJDHANI TV
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
+#EXTINF: -1 group-title="BANGLADESH", CUMILLAH TV
+http://103.149.142.133/0.m3u8
