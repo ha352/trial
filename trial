@@ -95,3 +95,23 @@ https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg" group-title="BANGLADESH", NRB TV
 https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cbZNJrh/20240617-193709.png" group-title="kolkata Bangla", STAR JALSHA HD
+http://watchindia.net:8880/live/65596/46234/2281.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/FsWgky5/20240610-123154.png" group-title="kolkata Bangla", ZEE BANGLA HD
+http://watchindia.net:8880/live/65596/46234/2283.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/5MHxmk0/20240610-123401.png" group-title="kolkata Bangla", ZEE BANGLA CINEMA
+http://watchindia.net:8880/live/65596/46234/2287.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/8cRwMMC/20240617-203308.png" group-title="kolkata Bangla", COLORS BANGLA
+http://watchindia.net:8880/live/65596/46234/2284.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/700px-Colors_Bangla_Cinema.png?20230727091622" group-title="kolkata Bangla", COLORS BANGLA CENEMA
+http://watchindia.net:8880/live/6https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9c0bdd968726ddaeb0ba79979fe761ceb8fd76397d9636e3c9fd0c40b6f9a67db11f985561627cc254ebc7e430bf4b63bb3ae3bd86e595aa265e651761ac871ad8ca2f70d5dafa6e81e6e34c966b59c638224e6af1f0f0cf879c4eef859f24bf55eaa0126267ef32bb23f6f8c9f6fefc895596/46234/2284.m3u8
+#EXTINF: -1 tvg-logo="https://www.adgully.com/img/800/53310_ruposhi-bangla.jpg" group-title="kolkata Bangla", RUPASHI BANGLA
+http://195.26.87.217/live.ts?channelId=113&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://www.enterr10tv.in/wp-content/uploads/2022/03/enterban.jpg" group-title="kolkata Bangla", ENTER10 BANGLA
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/556/803/png-transparent-multicolored-star-illustration-with-text-overlay-jalsha-movies-star-jalsha-star-india-high-definition-television-maa-miscellaneous-purple-television-thumbnail.png" group-title="kolkata Bangla", JALSHA MOVIES
+http://watchindia.net:8880/live/65596/46234/2282.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/MpcSzwT/20240610-130634.png" group-title="kolkata Bangla", SUN BANGLA
+http://watchindia.net:8880/live/65596/46234/2290.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/3YN0tLD/20240610-123510.png" group-title="kolkata Bangla", AKASH ATH
+http://watchindia.net:8880/live/65596/46234/2295.m3u8
