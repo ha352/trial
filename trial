@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="",btv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=462323364
+#EXTINF:-1,R TV HD
+#EXTGRP:BANGLADESH
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
+#EXTINF:-1,BANGLA VISION
+#EXTGRP:BANGLADESH
+http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
+#EXTINF:-1,CHENNEL 9
+#EXTGRP:BANGLADESH
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F:F3
