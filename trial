@@ -44,4 +44,35 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1,ATN NEWS
 #EXTGRP:BANGLADESH
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,EKUSHEY TV
+#EXTGRP:BANGLADESH
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1,MY TV
+#EXTGRP:BANGLADESH
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1,MASRANGA TV
+#EXTGRP:BANGLADESH
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DESHI TV
+#EXTGRP:BANGLADESH
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,ATN BANGLA
+#EXTGRP:BANGLADESH
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2897.ts
+#EXTINF:-1,BIJOY TV
+#EXTGRP:BANGLADESHI
+https://images.seeklogo.com/logo-png/53/1/atn-bangla-logo-png_seeklogo-537053.png
+#EXTINF:-1,DURONTO TV
+#EXTGRP:BANGLADESH
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:-1,N TV
+#EXTGRP:BANGLADESH
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1,SA TV
+#EXTGRP:BANGLADESH
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1,BOISHAKHI TV
+#EXTGRP:BANGLADESH
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
