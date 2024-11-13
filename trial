@@ -8,3 +8,40 @@ http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:
 #EXTINF:-1,CHENNEL 9
 #EXTGRP:BANGLADESH
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F:F3
+#EXTINF:-1,DEEPTO TV
+#EXTGRP:BANGLADESH
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1,NAGORIK TV
+#EXTGRP:BANGLADESH
+http://starshare.live:8080/live/Leroy123/Leroy123/3802.ts
+#EXTINF:-1,BTV HD
+#EXTGRP:BANGLADESH
+http://xtv.ooo:8080/global/global/245930
+#EXTINF:-1,BTV WORLD
+#EXTGRP:BANGLADESH
+http://172.105.123.238:18002/play/a038
+#EXTINF:-1,SOMOY NEWS
+#EXTGRP:BANGLADESH
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,EKATTOR TV
+#EXTGRP:BANGLADESH
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
+#EXTINF:-1,INDEPEPENDENT
+#EXTGRP:BANGLADESH
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1,CHENNEL 24
+#EXTGRP:BANGLADESH
+http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,JAMUNA TV
+#EXTGRP:BANGLADESH
+http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NEWS 24 HD
+#EXTGRP:BANGLADESH
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1,DBC NEWS
+#EXTGRP:BANGLADESH
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1,ATN NEWS
+#EXTGRP:BANGLADESH
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+
