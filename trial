@@ -87,4 +87,41 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 #EXTINF:-1,ASIAN TV
 #EXTGRP:BANGLADESH
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI1OjUxIFBNJmhhc2hfdmFsdWU9TVVFa04yS3RRVFFlS21mRVZZOXEzUT09JnZhbGlkbWludXRlcz00MA==
+#EXTM3U
+#EXTINF:-1,ZEE BANGLA HD
+#EXTGRP:INDIAN BANGLA
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731563752~exp=1731650152~acl=/prantoliv/*~data=103.69.150.74-WEB~hmac=60fc694d9b2e8c2ab53da3b99d016975785eeff76778c2354a9cbd1cea1790a2
+#EXTINF:-1,COLOR BANGLA
+#EXTGRP:INDIAN BANGLA
+https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731563752~exp=1731650152~acl=/prantoliv/*~data=103.69.150.74-WEB~hmac=60fc694d9b2e8c2ab53da3b99d016975785eeff76778c2354a9cbd1cea1790a2
+#EXTINF:-1,KUSHBOO BANGLA
+#EXTGRP:INDIAN BANGLA
+https://tvs1.aynaott.com/bz/Khushboo/index.m3u8?hdnts=st=1731563752~exp=1731650152~acl=/prantoliv/*~data=103.69.150.74-WEB~hmac=60fc694d9b2e8c2ab53da3b99d016975785eeff76778c2354a9cbd1cea1790a2
+#EXTINF:-1,REPUBLIC BANGLA
+#EXTGRP:INDIAN BANGLA
+https://tvs3.aynaott.com/bz/R_Bangla/index.m3u8?hdnts=st=1731563752~exp=1731650152~acl=/prantoliv/*~data=103.69.150.74-WEB~hmac=60fc694d9b2e8c2ab53da3b99d016975785eeff76778c2354a9cbd1cea1790a2
+#EXTINF:-1,KOLKATA TV
+#EXTGRP:INDIAN BANGLA
+https://tvs1.aynaott.com/bz/kolkatatv/index.m3u8?hdnts=st=1731563752~exp=1731650152~acl=/prantoliv/*~data=103.69.150.74-WEB~hmac=60fc694d9b2e8c2ab53da3b99d016975785eeff76778c2354a9cbd1cea1790a2
+#EXTINF:-1,STAR JALSHA HD
+#EXTGRP:INDIAN BANGLA
+http://ktv.im:8080/live/873747737/637763736/83749.ts
+#EXTINF:-1,SUN BANGLA HD
+#EXTGRP:INDIAN BANGLA
+http://xtv.ooo:8080/Jawad1994/03112371534/245906
+#EXTINF:-1,JALSHA MOVIES HD
+#EXTGRP:INDIAN BANGLA
+http://bapatv.live:8080/jalsamovies-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE BANGLA CINAMA
+#EXTGRP:INDIAN BANGLA
+http://bapatv.live:8080/zeebncinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AKASH ATH
+#EXTGRP:INDIAN BANGLA
+http://ktv.im:8080/live/873747737/637763736/83770.ts
+#EXTINF:-1,ENTER 10 BANGLA
+#EXTGRP:INDIAN BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1,RUPOSHI BANGLA
+#EXTGRP:INDIAN BANGLA
+http://ktv.im:8080/live/873747737/637763736/83773.ts
 
