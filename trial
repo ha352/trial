@@ -125,3 +125,22 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTGRP:INDIAN BANGLA
 http://ktv.im:8080/live/873747737/637763736/83773.ts
 
+#EXTINF:-1,SARNANDA TV
+#EXTGRP:INDIAN BANGLA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/live-orgin/sanandatv.stream/chunks.m3u8
+#EXTINF:-1,AMAR BANGLA
+#EXTGRP:INDIAN BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1,AMAR DEGITAL
+#EXTGRP:INDIAN BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1,TARA BANGLA CENAMA
+#EXTGRP:INDIAN BANGLA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1,DD BANGLA
+#EXTGRP:INDIAN BANGLA
+http://172.105.123.238:18002/play/a02p
+#EXTINF:-1,BANGLA+HD
+#EXTGRP:INDIAN BANGLA
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
